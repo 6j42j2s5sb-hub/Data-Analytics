@@ -84,6 +84,28 @@ Sintesi dei risultati ottenuti e considerazioni sul mercato videoludico.
 🖼️ Risultati (grafici)
 I grafici generati durante l’analisi sono salvati nella cartella images/.
 
+Repository:
+video-games-sales-analysis/
+│
+├── data/
+│   ├── raw/
+│   │   └── Video_Games_Sales.csv
+│   └── processed/
+│       └── (file puliti opzionali)
+│
+├── notebooks/
+│   └── analysis.ipynb
+│
+├── src/
+│   ├── utilis.py
+
+├── images/
+│   ├── Somma di Global Sales per Genere.png
+│   ├── Somma di Global Sales per Piattaforma.png
+│   ├── Somma di Global Sales per anno di uscita.png
+│
+├── README.md
+
 
 Questo progetto rappresenta un esempio completo di analisi dati con Pandas e Seaborn, utile come primo elemento di un portfolio da Data Analyst.
 Mostra competenze tecniche, capacità di storytelling dei dati e organizzazione professionale del codice.Questo progetto rappresenta un esempio completo di analisi dati con Pandas e Seaborn, utile come primo elemento di un portfolio da Data Analyst.
